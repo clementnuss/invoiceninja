@@ -4034,7 +4034,7 @@ Lorsque les montant apparaîtront sur votre relevé, veuillez revenir sur cette 
      'to_pay_invoices' => 'To pay invoices, you have to',
      'add_payment_method_first' => 'add payment method',
      'no_items_selected' => 'No items selected.',
-     'payment_due' => 'Payment due',
+     'payment_due' => 'Échéance',
      'account_balance' => 'Account balance',
      'thanks' => 'Thanks',
      'minimum_required_payment' => 'Minimum required payment is :amount',
